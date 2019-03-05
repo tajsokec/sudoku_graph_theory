@@ -1,7 +1,8 @@
-# sudoku_graph_theory
-Simple example of solving Sudoku with graph theory. Greedy technique.
+# How to Solve Sudoku With Graph Theory
 
 In graph theory, the graph consists of vertices (nodes) and edges. On a graph, we can color vertices so that no two vertices sharing the same edge have the same color. It's called vertex coloring. Let's try.
+
+[Contribution guidelines for this project](images/coloring.png)
 
 On the given graph we can color vertices in different ways. In the first solution, it's colored with four colors and in the second solution with five colors. You can see that no two vertices sharing the same edge have the same color. 
 If you are interested in more graph coloring, you can find it here.
